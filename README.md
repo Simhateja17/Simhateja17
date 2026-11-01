@@ -14,9 +14,9 @@
 - 🚀 **Lead Developer** at **Couture Services Pvt Ltd**, a 5-person AI and software agency
 - 🛠️ **Lead Developer** at **Globonexo**, building **GNX Sales**, an AI sales agent that researches, emails, calls and books meetings
 - 🎓 B.Tech at **NIT Rourkela** (2024 to 2028)
-- 🤖 I design the architecture and ship production systems with AI-assisted coding (Claude Code, Codex)
+- 🤖 I design the architecture and ship production systems end to end
 - 🌍 Delivered 4+ products fully remotely for clients in India, Singapore and Malaysia
-- 🧬 Deeply interested in **Neural Networks and Deep Learning**: from the math behind backprop to CNNs, sequence models and Transformers
+- 🧬 Deeply interested in **Neural Networks and Deep Learning**: from the math behind backprop to CNNs, sequence models and Transformers, in PyTorch and TensorFlow/Keras
 - 🔬 Currently building: CIFAR-10 CNN, 3D-CNN lip reading (visual speech recognition), and taxonomy-aware image classification on iNaturalist
 
 ---
@@ -46,8 +46,9 @@
 
 ### 🧰 Tech stack
 
-**AI / ML**
+**AI / ML · Neural Networks & Deep Learning**
 <p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
