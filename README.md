@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Simha Teja 👋</h1>
-<h3 align="center">AI Engineer · Founder of Couture Services · CTO at Globonexo</h3>
+<h3 align="center">AI Engineer · Lead Developer at Couture Services & Globonexo</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/simha-teja"><img src="https://img.shields.io/badge/LinkedIn-simha--teja-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -11,12 +11,13 @@
 
 ### 🧠 About me
 
-- 🚀 **Founder & Lead Developer** at **Couture Services Pvt Ltd**, a 5-person AI and software agency in Bangalore
-- 🛠️ **CTO at Globonexo**, building **GNX Sales**, an AI sales agent that researches, emails, calls and books meetings
+- 🚀 **Lead Developer** at **Couture Services Pvt Ltd**, a 5-person AI and software agency
+- 🛠️ **Lead Developer** at **Globonexo**, building **GNX Sales**, an AI sales agent that researches, emails, calls and books meetings
 - 🎓 B.Tech at **NIT Rourkela** (2024 to 2028)
 - 🤖 I design the architecture and ship production systems with AI-assisted coding (Claude Code, Codex)
 - 🌍 Delivered 4+ products fully remotely for clients in India, Singapore and Malaysia
-- 🔬 Currently exploring: CNNs, visual speech recognition and taxonomy-aware image classification
+- 🧬 Deeply interested in **Neural Networks and Deep Learning**: from the math behind backprop to CNNs, sequence models and Transformers
+- 🔬 Currently building: CIFAR-10 CNN, 3D-CNN lip reading (visual speech recognition), and taxonomy-aware image classification on iNaturalist
 
 ---
 
@@ -84,14 +85,9 @@
 ### 📈 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Simhateja17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simhateja17&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Simhateja17&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-<p align="center">💬 Open to collaborating on AI agents, voice AI and ML research. Reach out on LinkedIn or email.</p>
+<p align="center">💬 Open to collaborating on deep learning research, AI agents and voice AI. Reach out on LinkedIn or email.</p>
