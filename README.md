@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Simha Teja
 - 👀 I’m interested in building stuff 
 - 💞️ I’m looking to collaborate on AI/ML
-- 📫 How to reach me couture.founders@gmail.com
+- 📫 How to reach me simhateja17@gmail.com
 - 😄 Pronouns: HE/Him
 - ⚡ Fun fact: I'm 18
 
