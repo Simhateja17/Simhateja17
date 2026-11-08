@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Simha Teja 👋</h1>
-<h3 align="center">AI Engineer · Lead Developer at Couture Services & Globonexo</h3>
+<h3 align="center">AI Engineer </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/simha-teja"><img src="https://img.shields.io/badge/LinkedIn-simha--teja-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
