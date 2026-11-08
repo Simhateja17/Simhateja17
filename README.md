@@ -11,8 +11,9 @@
 
 ### 🧠 About me
 
-- 🚀 **Lead Developer** at **Couture Services Pvt Ltd**, a 5-person AI and software agency
-- 🛠️ **Lead Developer** at **Globonexo**, building **GNX Sales**, an AI sales agent that researches, emails, calls and books meetings
+- 💼 **Incoming AI Engineering Intern** at **Ur AI Co. Ltd.** (Winter 2026)
+- 🚀 **Founder & Lead Developer** at **Couture Services Pvt Ltd**, a 5-person AI and software studio
+- 🛠️ Built **[GNX Sales](https://gnxsales.com)**, an AI sales agent that researches, emails, calls and books meetings
 - 🎓 B.Tech at **NIT Rourkela** (2024 to 2028)
 - 🤖 I design the architecture and ship production systems end to end
 - 🌍 Delivered 4+ products fully remotely for clients in India, Singapore and Malaysia
