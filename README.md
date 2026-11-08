@@ -11,7 +11,7 @@
 
 ### 🧠 About me
 
-- 💼 **Document Intelligence & VLM R&D Intern** at **Ur AI Co. Ltd.**, Tokyo (Dec 2026 to Jan 2027), via METI's Global South-Japan Tech Talent Internship Program
+- 💼 **Document Intelligence & VLM R&D Intern** at **Ur AI Co. Ltd.**, Tokyo (Dec 2026 to Jan 2027)
 - 🚀 **Founder & Lead Developer** at **Couture Services Pvt Ltd**, a 5-person AI and software studio
 - 🛠️ Built **[GNX Sales](https://gnxsales.com)**, an AI sales agent that researches, emails, calls and books meetings
 - 🎓 B.Tech at **NIT Rourkela** (2024 to 2028)
