@@ -17,8 +17,9 @@
 - 🎓 B.Tech at **NIT Rourkela** (2024 to 2028)
 - 🤖 I design the architecture and ship production systems end to end
 - 🌍 Delivered 10+ products fully remotely for clients in India, USA, Germany, Canada, Singapore and Malaysia
+- 📱 4 apps live on the Play Store and 3 on the App Store
 - 🧬 Deeply interested in **Neural Networks and Deep Learning**: from the math behind backprop to CNNs, sequence models and Transformers, in PyTorch and TensorFlow/Keras
-- 🔬 Currently building: CIFAR-10 CNN, 3D-CNN lip reading (visual speech recognition), and taxonomy-aware image classification on iNaturalist
+- 🔬 Deep learning projects: [inat-taxonomy-cnn](https://github.com/Simhateja17/inat-taxonomy-cnn) (does telling a CNN the taxonomy help?), [fraud-spike-detector](https://github.com/Simhateja17/fraud-spike-detector), a CIFAR-10 CNN, and a 3D-CNN for lip reading (visual speech recognition)
 
 ---
 
@@ -38,7 +39,7 @@
 
 - 🥇 **Paytm AI Hackathon**: top 130 of 2000+ teams (Bangalore)
 - 🛰️ **ISRO Bharatiya Antariksh Hackathon**: solar flare forecasting on Aditya-L1 data
-- 💳 **Razorpay AI Buildathon**
+- 💳 **Razorpay AI Buildathon**: built Cartisan, a governed agentic commerce system
 - 📊 **Accenture Innovation Challenge**: KPI Storytelling Engine
 - 🌾 **Smart India Hackathon**: Krishi Saathi
 - 🦀 **Port Mortem**: porting `textdistance` to Rust
