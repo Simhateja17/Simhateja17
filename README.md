@@ -16,7 +16,7 @@
 - 🛠️ Built **[GNX Sales](https://gnxsales.com)**, an AI sales agent that researches, emails, calls and books meetings
 - 🎓 B.Tech at **NIT Rourkela** (2024 to 2028)
 - 🤖 I design the architecture and ship production systems end to end
-- 🌍 Delivered 4+ products fully remotely for clients in India, Singapore and Malaysia
+- 🌍 Delivered 10+ products fully remotely for clients in India, USA, Germany, Canada, Singapore and Malaysia
 - 🧬 Deeply interested in **Neural Networks and Deep Learning**: from the math behind backprop to CNNs, sequence models and Transformers, in PyTorch and TensorFlow/Keras
 - 🔬 Currently building: CIFAR-10 CNN, 3D-CNN lip reading (visual speech recognition), and taxonomy-aware image classification on iNaturalist
 
